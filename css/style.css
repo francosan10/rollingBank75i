@@ -16,3 +16,7 @@ main {
 ul li {
     list-style: none;
 }
+/* carrusel */
+.carousel-inner {
+    height: 80vh;
+}
