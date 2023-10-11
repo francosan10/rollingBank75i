@@ -20,3 +20,8 @@ ul li {
 .carousel-inner {
     height: 80vh;
 }
+/* cards */
+.cards {
+    box-shadow: 5px 15px 15px #c3c3c389;
+}
+
