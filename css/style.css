@@ -24,4 +24,7 @@ ul li {
 .cards {
     box-shadow: 5px 15px 15px #c3c3c389;
 }
-
+/* page seguridad */
+.tituloSeguridad {
+    font-family: 'Fjalla One', sans-serif;
+}
