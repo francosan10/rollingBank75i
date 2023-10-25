@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&family=Jost:wght@300&display=swap');
+
+body {
+    min-height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+main {
+    flex-grow: 1;
+}
+
+.logoRC {
+    font-size: 1.5rem;
+    font-family: 'Fjalla One', sans-serif;
+}
+ul li {
+    list-style: none;
+}
+/* carrusel */
+.carousel-item img {
+    height: 500px;
+    object-fit: cover ;
+}
+/* cards */
+.cards {
+    box-shadow: 5px 15px 15px #c3c3c389;
+}
+/* page seguridad */
+.tituloSeguridad {
+    font-family: 'Fjalla One', sans-serif;
+}
